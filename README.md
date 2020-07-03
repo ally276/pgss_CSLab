@@ -1,5 +1,5 @@
 # PGSS CS Lab Lecture 2 Repository
-This respository contains my scripts and notes from L1 and L2 of the CS lab from the PGSS program.
+A repository for the PGSS CS lab
 
 **R and Python scripts are included
   - R scripts include:
